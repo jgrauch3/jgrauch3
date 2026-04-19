@@ -19,7 +19,7 @@
 
 ---
 
-[LinkedIn]((https://www.linkedin.com/in/drew-grauch-2b32a0292/)) | [Email](mailto:Josie.Drew33@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/drew-grauch-2b32a0292/) | [Email](mailto:Josie.Drew33@gmail.com)
 
 <!--
 **jgrauch3/jgrauch3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
