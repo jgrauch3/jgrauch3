@@ -14,7 +14,7 @@
 
 ### **📈 Featured Projects**
 * **[Bus Fleet Optimization](https://github.com/jgrauch3/bus-fleet-route-optimization):** Multi-objective Gurobi model balancing transit efficiency with system fairness
-* **[Media Streaming Backend](link-to-repo):** 20+ table RDBMS architecture with automated SQL stored procedures
+* **[Media Streaming Backend](https://github.com/jgrauch3/media-streaming-database):** 20+ table RDBMS architecture with automated SQL stored procedures
 * **[GA School Statistics Analytics](link-to-repo):** End-to-end data study comparing regional performance to national benchmarks
 
 ---
