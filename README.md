@@ -3,7 +3,7 @@
 ### **Industrial Engineering @ Georgia Tech**
 
 ### **Highlights**
-* **Incoming Area Manager Intern @ Amazon (Summer 2026):** Focusing on high-volume logistics and warehouse operations strategy
+* **Area Manager Intern @ Amazon (Summer 2026):** Focusing on high-volume logistics and warehouse operations strategy
 * **Global Immersion:** Completed a technical exchange at **Yonsei University** in Seoul and I'm part of GA Tech's International Plan
 * **Technical Focus:** Relational database architecture, Multi-objective Integer Programming, and Data Analytics
 
